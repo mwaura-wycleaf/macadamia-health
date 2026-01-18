@@ -4,7 +4,7 @@ This project is a simple knowledge-based system for diagnosing diseases and pest
 
  ## Link to live app
  
-[https://macadamiadoctor-gma5lufrokb3vtaewsecrk.streamlit.app/]
+[https://macadamia-health-gma5lufrokb3vtaewsecrk.streamlit.app/]
 
 ## Features
 
